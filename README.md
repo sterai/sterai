@@ -1,6 +1,6 @@
-- 👋 Hi, I am @sterai
-- 👀 I’m interested in learning and teaching
-- 🌱 I’m currently learning github
+- 👋 Hi, I am @sterai.
+- 👀 I’m interested in learning and teaching.
+- 🌱 I’m currently learning github.
 - 💞️ I’m looking to collaborate on postgres, markov chains, Linux.
 - 📫 saif.terai@gmail.com
 
