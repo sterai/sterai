@@ -1,6 +1,5 @@
 - 👋 @sterai.
-- 👀 I’m interested in learning and teaching.
-- 🌱 I’m currently learning github.
+- 👀 I’m interested in Learning and Teaching.
 - 💞️ I’m looking to collaborate on postgres, Algorithmic Music Composition Systems, Linux.
 - 📫 saif.terai@gmail.com
 
